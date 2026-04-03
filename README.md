@@ -1,1 +1,1 @@
-Hi, I'm Robbe Janssens, .NET Developer at AllPhi
+Hi, I'm Robbe Janssens, AllPhi MVP at AllPhi
